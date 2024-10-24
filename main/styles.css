@@ -37,3 +37,18 @@ h1{
 .hero-items p{
     margin-right: 50px;
 }
+
+.customize-password-container{
+    max-width: 400px;
+    margin: auto;
+    background-color: #FB710E;
+    padding: 2em 4.5em;
+    border-radius: 30px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.characters-container{
+    display: flex;
+    justify-content: center;
+}
